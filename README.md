@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, I'm KRiPPto99</h1>
 <h3 align="center">A Human who believe in himself</h3>
 
-- 🔭 I’m currently working on **Speech Emotion Recognition**
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Ethical Hacking ,**
+- 🌱 I’m currently learning **Web penetration testing, Ethical Hacking ,**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
