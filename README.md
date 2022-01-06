@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **romanempirekk@gmail.com**
 
+- 👨‍💻 love to Code in Games 
+
 - ⚡ Fun fact **I think Im Funny**
 
 <h3 align="left">Connect with me:</h3>
